@@ -15,7 +15,7 @@ class ForgotPasswordScreen extends StatelessWidget {
         children: [
           ScreenTop('back'),
           Container(
-            margin: EdgeInsets.all(4.5.w),
+            margin: EdgeInsets.all(4.55.w),
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
